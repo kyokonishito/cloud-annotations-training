@@ -1,13 +1,13 @@
 ---
-title: Introduction
+title: イントロダクション
 date: 1970-01-01
 ---
 
 ![](assets/main.png)
 
-## What you will build ビルドするもの
-In this workshop, you’ll build an app that lets you use your own custom-trained models to detect objects. You’ll create an IBM Cloud Object Storage instance to store your labeled data, then after your data is ready, you’ll learn how to start a Watson Machine Learning instance to train your own custom model on top-of-the-line GPUs. After your model has completed training, you can simply plug the model into your application.
+## 作成するもの
+このワークショップでは、独自のカスタムトレーニングモデルを使用してオブジェクトを検出できるようにするアプリを作成します。ラベル付けされたデータを格納するためのIBM Cloud Object Storageインスタンスを作成し、データの準備ができたら、最先端のGPUで独自のカスタムモデルをトレーニングするためのWatson Machine Learningインスタンスの開始方法を学習します。 モデルのトレーニングが完了したら、モデルをアプリケーションに接続するだけでOKです。
 ![](assets/main_image.png)
 
-## Prerequisites
-* **Recommended:** A basic understanding of using terminal
+## 前提知識
+* **推奨:** ターミナル(コマンドウィンドウ)を使用するための基礎知識
