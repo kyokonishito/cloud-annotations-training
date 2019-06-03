@@ -4,8 +4,8 @@ description: >-
   Create custom models from Cloud Annotations for mobile, IoT and web.
 baseurl: "/training" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: bourdakos1
-github_username:  bourdakos1
+twitter_username: kyokonishito
+github_username:  kyokonishito
 
 # Build settings
 markdown: kramdown
@@ -13,9 +13,12 @@ theme: jekyll-theme-cayman
 
 # Authors
 authors:
-  - name: Nick Bourdakos
-    twitter: bourdakos1
-    github: bourdakos1
+  - name: Kyoko Nishito
+    twitter: kyokonishito
+    github: kyokonishito
+
+plugins:
+  - jekyll-feed
 
 collections:
   object_detection:
